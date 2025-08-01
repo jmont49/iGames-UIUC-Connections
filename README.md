@@ -1,5 +1,7 @@
 # iGames: UIUC Wordle & Connections Challenge
 
+![iGames Demo](igames.gif)
+
 ## Project Overview
 iGames is a pair of puzzle-style games inspired by Wordle and the New York Times’ Connections, built with a UIUC theme. Developed as part of the CS124 Honors program at the University of Illinois Urbana-Champaign, the games increase in difficulty as users progress and were designed to reinforce programming logic and problem-solving skills in an engaging way.
 
